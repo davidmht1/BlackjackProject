@@ -1,7 +1,7 @@
 #pragma once
 #include "Hand.h"
 #include "GenericPlayer.h"
-class Deck
+class Deck : public Hand
 {
 public:
 	Deck();

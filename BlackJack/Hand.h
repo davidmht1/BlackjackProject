@@ -6,7 +6,7 @@ class Hand
 {
 	public:
 		Hand();
-		void add(Card* cardPrt);
+		void add(Card* cardPtr);
 		virtual ~Hand();
 		void clearHand();
 		int getTotal();

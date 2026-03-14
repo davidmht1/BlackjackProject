@@ -1,7 +1,7 @@
 #pragma once
-class House
+class House: public GenericPlayer
 {
-public:
+public: 
 	House();
 	virtual ~House();
 	virtual bool isHitting();

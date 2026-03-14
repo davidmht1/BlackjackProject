@@ -1,7 +1,7 @@
 #pragma once
 #include <string>
 
-class Player
+class Player : public GenericPlayer
 {
 public:
 	Player(std::string const& name = "");

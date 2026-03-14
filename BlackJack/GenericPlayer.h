@@ -1,7 +1,7 @@
 #pragma once
 #include <string>
 
-class GenericPlayer
+class GenericPlayer : public Hand
 {
 public:
 	GenericPlayer();
