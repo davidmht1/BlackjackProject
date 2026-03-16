@@ -1,5 +1,4 @@
 #pragma once
-#include <string>
 
 class GenericPlayer : public Hand
 {
@@ -12,6 +11,6 @@ public:
 	std::string getName();
 	void setName(std::string name);
 private:
-	string name;
+	std::string name;
 };
 

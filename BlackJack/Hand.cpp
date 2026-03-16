@@ -25,3 +25,31 @@ void Hand::clearHand()
 	cardVector.clear();
 
 }
+
+int Hand::getTotal()
+{
+	if (cardVector.empty())
+		return 0;
+	if (cardVector[0]->getValue())
+		return 0;
+
+	std::vector<Card*>::iterator card;
+	int total = 0;
+
+	for (card = cardVector.begin(); card != cardVector.end(); ++card)
+	{
+		total += (*card)->getValue();
+	}
+
+	bool ace = false;
+	for (card = cardVector.begin(); card != cardVector.end(); ++card)
+	{
+		if ((*card)->getValue() == 1)
+			ace == true;
+	}
+	if (total <= 11 && ace)
+		total += 11;
+
+	return total;
+
+}

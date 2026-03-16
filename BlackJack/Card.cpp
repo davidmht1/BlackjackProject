@@ -15,7 +15,7 @@ int Card::getValue()
 
 	switch (rank)
 	{
-		case ACE: return 11;
+		case ACE: return 1;
 		case TWO: return 2;
 		case THREE: return 3;
 		case FOUR: return 4;
