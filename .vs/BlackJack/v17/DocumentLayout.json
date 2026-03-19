@@ -3,40 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\david\\source\\repos\\BlackJack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D900536-3C8F-4056-96CC-86FB5756DBFE}|BlackJack\\BlackJack.vcxproj|C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4D900536-3C8F-4056-96CC-86FB5756DBFE}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4D900536-3C8F-4056-96CC-86FB5756DBFE}|BlackJack\\BlackJack.vcxproj|C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\Deck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D900536-3C8F-4056-96CC-86FB5756DBFE}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\Deck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D900536-3C8F-4056-96CC-86FB5756DBFE}|BlackJack\\BlackJack.vcxproj|C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\House.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4D900536-3C8F-4056-96CC-86FB5756DBFE}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\House.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D900536-3C8F-4056-96CC-86FB5756DBFE}|BlackJack\\BlackJack.vcxproj|C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\Hand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4D900536-3C8F-4056-96CC-86FB5756DBFE}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\Hand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D900536-3C8F-4056-96CC-86FB5756DBFE}|BlackJack\\BlackJack.vcxproj|C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\GenericPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4D900536-3C8F-4056-96CC-86FB5756DBFE}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\GenericPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4D900536-3C8F-4056-96CC-86FB5756DBFE}|BlackJack\\BlackJack.vcxproj|C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\Deck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D900536-3C8F-4056-96CC-86FB5756DBFE}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\Deck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D900536-3C8F-4056-96CC-86FB5756DBFE}|BlackJack\\BlackJack.vcxproj|C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\Card.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4D900536-3C8F-4056-96CC-86FB5756DBFE}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\Card.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D900536-3C8F-4056-96CC-86FB5756DBFE}|BlackJack\\BlackJack.vcxproj|C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4D900536-3C8F-4056-96CC-86FB5756DBFE}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4D900536-3C8F-4056-96CC-86FB5756DBFE}|BlackJack\\BlackJack.vcxproj|C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\House.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D900536-3C8F-4056-96CC-86FB5756DBFE}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\House.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D900536-3C8F-4056-96CC-86FB5756DBFE}|BlackJack\\BlackJack.vcxproj|C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\House.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4D900536-3C8F-4056-96CC-86FB5756DBFE}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\House.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D900536-3C8F-4056-96CC-86FB5756DBFE}|BlackJack\\BlackJack.vcxproj|C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\Hand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4D900536-3C8F-4056-96CC-86FB5756DBFE}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\Hand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4D900536-3C8F-4056-96CC-86FB5756DBFE}|BlackJack\\BlackJack.vcxproj|C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\GenericPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4D900536-3C8F-4056-96CC-86FB5756DBFE}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\GenericPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D900536-3C8F-4056-96CC-86FB5756DBFE}|BlackJack\\BlackJack.vcxproj|C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\GenericPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D900536-3C8F-4056-96CC-86FB5756DBFE}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\GenericPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,99 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 521,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Player.cpp",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\Player.cpp",
-              "RelativeDocumentMoniker": "BlackJack\\Player.cpp",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\Player.cpp",
-              "RelativeToolTip": "BlackJack\\Player.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-16T03:44:32.231Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "House.cpp",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\House.cpp",
-              "RelativeDocumentMoniker": "BlackJack\\House.cpp",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\House.cpp",
-              "RelativeToolTip": "BlackJack\\House.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-16T03:44:30.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Hand.cpp",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\Hand.cpp",
-              "RelativeDocumentMoniker": "BlackJack\\Hand.cpp",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\Hand.cpp",
-              "RelativeToolTip": "BlackJack\\Hand.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-16T03:44:21.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GenericPlayer.cpp",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\GenericPlayer.cpp",
-              "RelativeDocumentMoniker": "BlackJack\\GenericPlayer.cpp",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\GenericPlayer.cpp",
-              "RelativeToolTip": "BlackJack\\GenericPlayer.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-16T03:44:16.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Card.cpp",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\Card.cpp",
-              "RelativeDocumentMoniker": "BlackJack\\Card.cpp",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\Card.cpp",
-              "RelativeToolTip": "BlackJack\\Card.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-16T03:44:12.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Player.h",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\Player.h",
-              "RelativeDocumentMoniker": "BlackJack\\Player.h",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\Player.h",
-              "RelativeToolTip": "BlackJack\\Player.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-16T03:44:08.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "House.h",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\House.h",
-              "RelativeDocumentMoniker": "BlackJack\\House.h",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\House.h",
-              "RelativeToolTip": "BlackJack\\House.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-16T03:44:05.151Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -149,34 +50,105 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Hand.h",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\Hand.h",
-              "RelativeDocumentMoniker": "BlackJack\\Hand.h",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\Hand.h",
-              "RelativeToolTip": "BlackJack\\Hand.h",
+              "DocumentIndex": 0,
+              "Title": "Deck.cpp",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\Deck.cpp",
+              "RelativeDocumentMoniker": "BlackJack\\Deck.cpp",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\Deck.cpp",
+              "RelativeToolTip": "BlackJack\\Deck.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-16T03:44:01.115Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-19T03:36:57.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GenericPlayer.h",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\GenericPlayer.h",
-              "RelativeDocumentMoniker": "BlackJack\\GenericPlayer.h",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\GenericPlayer.h",
-              "RelativeToolTip": "BlackJack\\GenericPlayer.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-16T03:43:58.552Z",
+              "DocumentIndex": 2,
+              "Title": "Card.cpp",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\Card.cpp",
+              "RelativeDocumentMoniker": "BlackJack\\Card.cpp",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\Card.cpp",
+              "RelativeToolTip": "BlackJack\\Card.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-19T03:36:56.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "House.cpp",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\House.cpp",
+              "RelativeDocumentMoniker": "BlackJack\\House.cpp",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\House.cpp",
+              "RelativeToolTip": "BlackJack\\House.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-19T03:28:58.84Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 90,
+          "DockedWidth": 521,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Deck.h",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\Deck.h",
+              "RelativeDocumentMoniker": "BlackJack\\Deck.h",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\Deck.h",
+              "RelativeToolTip": "BlackJack\\Deck.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-19T03:36:52.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenericPlayer.h",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\GenericPlayer.h",
+              "RelativeDocumentMoniker": "BlackJack\\GenericPlayer.h",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\GenericPlayer.h",
+              "RelativeToolTip": "BlackJack\\GenericPlayer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-19T03:32:33.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericPlayer.cpp",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\GenericPlayer.cpp",
+              "RelativeDocumentMoniker": "BlackJack\\GenericPlayer.cpp",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\GenericPlayer.cpp",
+              "RelativeToolTip": "BlackJack\\GenericPlayer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-19T03:32:41.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "House.h",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\House.h",
+              "RelativeDocumentMoniker": "BlackJack\\House.h",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\BlackJack\\BlackJack\\House.h",
+              "RelativeToolTip": "BlackJack\\House.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-19T03:29:27.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 63,
           "SelectedChildIndex": -1,
           "Children": [
             {
